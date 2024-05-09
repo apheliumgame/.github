@@ -5,5 +5,5 @@ Work on other players' land, explore the planet, gather resources to survive and
 
 A set of hand drawn, original shiny NFTs is waiting for you! Join our Discord server and begin your journey.
 
-![Discord](https://img.shields.io/discord/1019996471459848335) ![https://aphelium.io](https://img.shields.io/badge/website-visit-7289da)  ![Twitch Status](https://img.shields.io/twitch/status/apheliumgame?style=social) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/apheliumgame)
+[<img src="https://img.shields.io/discord/1019996471459848335"/>](https://discord.gg/KjbWUyhZwF) [<img src="https://img.shields.io/badge/website-visit-7289da"/>](https://aphelium.io)  [<img src="https://img.shields.io/twitch/status/apheliumgame?style=social"/>](https://twitch.tv/apheliumgame) [<img src="https://img.shields.io/twitter/follow/apheliumgame"/>](https://twitter.com/ApheliumGame) [<img src="https://img.shields.io/badge/atomichub-buy-ea923e"/>](https://wax.atomichub.io/explorer/collection/wax-mainnet/apheliumgame)
 
